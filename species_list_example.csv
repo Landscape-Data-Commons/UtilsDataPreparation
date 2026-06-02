@@ -1,0 +1,45 @@
+Common.Name,SpeciesCode,ScientificName,GrowthHabit,Duration,GrowthHabitSub,UpdatedSpeciesCode,Notes,SpeciesState,Family,Noxious,Invasive,SG_Group,HigherTaxon,Nonnative,SpecialStatus,Photosynthesis,PJ,CurrentPLANTSCode
+common yarrow,ACMI2,Achillea millefolium,NonWoody,Perennial,Forb,ACMI2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ACMI2
+chamise,ADFA,Adenostoma fasciculatum,Woody,Annual,Shrub,ADFA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ADFA
+unknown annual forb species 1,AF01,,NonWoody,Annual,Forb,NA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,NA
+unknown annual forb species 5,AF05,,NonWoody,Annual,Forb,NA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,NA
+unknown annual grass species 1,AG01,,NonWoody,Annual,Graminoid,NA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,NA
+agoseris,AGOSE,Agoseris species,NonWoody,Perennial,Forb,AGOSE,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,AGOSE
+spearleaf agoseris,AGRE,Agoseris retrorsa,NonWoody,Perennial,Forb,AGRE,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,AGRE
+Cuman ragweed,AMPS,Ambrosia psilostachya,NonWoody,Perennial,Forb,AMPS,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,AMPS
+chaffweed,ANMI4,Anagallis minima,NonWoody,Annual,Forb,ANMI4,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ANMI4
+big sagebrush,ARTR2,Artemisia tridentata,Woody,Annual,Shrub,ARTR2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ARTR2
+milkvetch,ASTRA,Astragalus species,NonWoody,Perennial,Forb,ASTRA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ASTRA
+purple false brome,BRDI2,Brachypodium distachyon,NonWoody,Annual,Graminoid,BRDI2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,BRDI2
+soft brome,BRHO2,Bromus hordeaceus,NonWoody,Annual,Graminoid,BRHO2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,BRHO2
+shepherd's purse,CABU2,Capsella bursa-pastoris,NonWoody,Annual,Forb,CABU2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CABU2
+fringed redmaids,CACI2,Calandrinia ciliata,NonWoody,Annual,Forb,CACI2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CACI2
+clustered field sedge,CAPR5,Carex praegracilis,NonWoody,Perennial,Graminoid,CAPR5,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CAPR5
+sedge,CAREX,Carex species,NonWoody,Perennial,Graminoid,CAREX,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CAREX
+sandysoil suncup,CAST20,Camissonia strigulosa,NonWoody,Annual,Forb,CAST20,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CAST20
+Indian paintbrush,CASTI2,Castilleja species,NonWoody,Annual,Forb,CASTI2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CASTI2
+sticky chickweed,CEGL2,Cerastium glomeratum,NonWoody,Annual,Forb,CEGL2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CEGL2
+Ramona clarkia,CLSI,Clarkia similis,NonWoody,Annual,Forb,CLSI,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,CLSI
+bluedicks,DICA14,Dichelostemma capitatum,NonWoody,Perennial,Forb,DICA14,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,DICA14
+longbeak stork's bill,ERBO,Erodium botrys,NonWoody,Annual,Forb,ERBO,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ERBO
+restem stork's bill,ERCI6,Erodium cicutarium,NonWoody,Annual,Forb,ERCI6,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,ERCI6
+mouse barley,HOMU,Hordeum murinum,NonWoody,Annual,Graminoid,HOMU,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,HOMU
+rush,JUNCU,Juncus species,NonWoody,Perennial,Graminoid,JUNCU,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,JUNCU
+needle goldfields,LAGR10,Lasthenia gracilis,NonWoody,Annual,Forb,LAGR10,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,LAGR10
+variable linanthus,LEPA51,Leptosiphon parviflorus,NonWoody,Annual,Forb,LEPA51,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,LEPA51
+Italian ryegrass,LOPEM2,Lolium perenne,NonWoody,Perennial,Graminoid,LOPEM2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,LOPEM2
+miniature lupine,LUBI,Lupinus bicolor,NonWoody,Annual,Forb,LUBI,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,LUBI
+deergrass,MURI2,Muhlenbergia rigens,NonWoody,Perennial,Graminoid,MURI2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,MURI2
+unknown perennial forb species 1,PF01,,NonWoody,Perennial,Forb,NA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,NA
+unknown perennial grass species 1,PG01,,NonWoody,Perennial,Graminoid,NA,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,NA
+popcornflower,PLAGI,Plagiobothrys species,NonWoody,Annual,Forb,PLAGI,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,PLAGI
+Cooper's popcornflower,PLCO13,Plagiobothrys collinus,NonWoody,Annual,Forb,PLCO13,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,PLCO13
+woolly plantain,PLPA2,Plantago patagonica,NonWoody,Annual,Forb,PLPA2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,PLPA2
+Pacific popcornflower,PLTE,Plagiobothrys tenellus,NonWoody,Annual,Forb,PLTE,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,PLTE
+Wright's cudweed,PSCAM,Pseudognaphalium canescens,NonWoody,Perennial,Forb,PSCAM,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,PSCAM
+tall tumblemustard,SIAL2,Sisymbrium altissimum,NonWoody,Annual,Forb,SIAL2,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,SIAL2
+dwarf checkerbloom,SISP7,Sidalcea sparsifolia,NonWoody,Perennial,Forb,SISP7,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,SISP7
+intermediate wheatgrass,THIN6,Thinopyrum intermedium,NonWoody,Perennial,Graminoid,THIN6,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,THIN6
+clover,TRIFO,Trifolium species,NonWoody,Perennial,Forb,TRIFO,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,TRIFO
+goosefoot violet,VIPU4,Viola purpurea,NonWoody,Perennial,Forb,VIPU4,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,VIPU4
+sixweeks fescue,VUOCO,Vulpia octoflora,NonWoody,Annual,Graminoid,VUOCO,NA,RanchoCortaMadera,NA,NA,NA, ,NA,NA,NA,NA,NA,VUOCO
